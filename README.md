@@ -6,6 +6,9 @@ The class was divided up into groups and given a list of potential projects. Our
 
 The result of 6 days work is Yore - an in-browser historical game that puts the user in the position of a Scottish family who are evicted from their croft in the Highlands and join the thousands of Scots who emigrated to Canada.
 
+You can play [Yore at this link](https://yoregame.herokuapp.com/)! 
+
+
 ## Screenshots
 
 <img src="https://i.imgur.com/Uppxxux.jpg" alt="Front splash page" width="500px" />
